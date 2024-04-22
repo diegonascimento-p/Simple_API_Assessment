@@ -1,6 +1,6 @@
-@Simple_API_Assessment_HostAddress = http://localhost:5284
+@Simple_API_Assessment_HostAddress = http://localhost
 
-GET {{Simple_API_Assessment_HostAddress}}/weatherforecast/
+GET {{Simple_API_Assessment_HostAddress}}/applicant/
 Accept: application/json
 
 ###

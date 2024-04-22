@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Simple_API_Assessment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0235DBDF-C3F7-4836-BF3D-4D0612CE1837}|Simple_API_Assessment\\Simple_API_Assessment.csproj|c:\\users\\pc\\source\\repos\\simple_api_assessment\\simple_api_assessment\\data\\repository\\applicantrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235DBDF-C3F7-4836-BF3D-4D0612CE1837}|Simple_API_Assessment\\Simple_API_Assessment.csproj|solutionrelative:simple_api_assessment\\data\\repository\\applicantrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235DBDF-C3F7-4836-BF3D-4D0612CE1837}|Simple_API_Assessment\\Simple_API_Assessment.csproj|c:\\users\\pc\\source\\repos\\simple_api_assessment\\simple_api_assessment\\controllers\\applicantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235DBDF-C3F7-4836-BF3D-4D0612CE1837}|Simple_API_Assessment\\Simple_API_Assessment.csproj|solutionrelative:simple_api_assessment\\controllers\\applicantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235DBDF-C3F7-4836-BF3D-4D0612CE1837}|Simple_API_Assessment\\Simple_API_Assessment.csproj|c:\\users\\pc\\source\\repos\\simple_api_assessment\\simple_api_assessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0235DBDF-C3F7-4836-BF3D-4D0612CE1837}|Simple_API_Assessment\\Simple_API_Assessment.csproj|solutionrelative:simple_api_assessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235DBDF-C3F7-4836-BF3D-4D0612CE1837}|Simple_API_Assessment\\Simple_API_Assessment.csproj|c:\\users\\pc\\source\\repos\\simple_api_assessment\\simple_api_assessment\\simple_api_assessment.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0235DBDF-C3F7-4836-BF3D-4D0612CE1837}|Simple_API_Assessment\\Simple_API_Assessment.csproj|solutionrelative:simple_api_assessment\\simple_api_assessment.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0235DBDF-C3F7-4836-BF3D-4D0612CE1837}|Simple_API_Assessment\\Simple_API_Assessment.csproj|c:\\users\\pc\\source\\repos\\simple_api_assessment\\simple_api_assessment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0235DBDF-C3F7-4836-BF3D-4D0612CE1837}|Simple_API_Assessment\\Simple_API_Assessment.csproj|solutionrelative:simple_api_assessment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 160,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicantRepo.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Simple_API_Assessment\\Simple_API_Assessment\\Data\\Repository\\ApplicantRepo.cs",
+              "RelativeDocumentMoniker": "Simple_API_Assessment\\Data\\Repository\\ApplicantRepo.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Simple_API_Assessment\\Simple_API_Assessment\\Data\\Repository\\ApplicantRepo.cs",
+              "RelativeToolTip": "Simple_API_Assessment\\Data\\Repository\\ApplicantRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T21:25:04.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Simple_API_Assessment\\Simple_API_Assessment\\Program.cs",
+              "RelativeDocumentMoniker": "Simple_API_Assessment\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Simple_API_Assessment\\Simple_API_Assessment\\Program.cs",
+              "RelativeToolTip": "Simple_API_Assessment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T21:21:17.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicantController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Simple_API_Assessment\\Simple_API_Assessment\\Controllers\\ApplicantController.cs",
+              "RelativeDocumentMoniker": "Simple_API_Assessment\\Controllers\\ApplicantController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Simple_API_Assessment\\Simple_API_Assessment\\Controllers\\ApplicantController.cs",
+              "RelativeToolTip": "Simple_API_Assessment\\Controllers\\ApplicantController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA3wBcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T21:15:43.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Simple_API_Assessment\\Simple_API_Assessment\\appsettings.json",
+              "RelativeDocumentMoniker": "Simple_API_Assessment\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Simple_API_Assessment\\Simple_API_Assessment\\appsettings.json",
+              "RelativeToolTip": "Simple_API_Assessment\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-22T21:14:21.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Simple_API_Assessment.http",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Simple_API_Assessment\\Simple_API_Assessment\\Simple_API_Assessment.http",
+              "RelativeDocumentMoniker": "Simple_API_Assessment\\Simple_API_Assessment.http",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Simple_API_Assessment\\Simple_API_Assessment\\Simple_API_Assessment.http",
+              "RelativeToolTip": "Simple_API_Assessment\\Simple_API_Assessment.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-22T21:10:22.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

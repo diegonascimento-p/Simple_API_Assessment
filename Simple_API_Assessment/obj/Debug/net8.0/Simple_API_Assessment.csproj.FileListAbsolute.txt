@@ -38,3 +38,4 @@ C:\Users\PC\source\repos\Simple_API_Assessment\Simple_API_Assessment\obj\Debug\n
 C:\Users\PC\source\repos\Simple_API_Assessment\Simple_API_Assessment\obj\Debug\net8.0\Simple_API_Assessment.pdb
 C:\Users\PC\source\repos\Simple_API_Assessment\Simple_API_Assessment\obj\Debug\net8.0\Simple_API_Assessment.genruntimeconfig.cache
 C:\Users\PC\source\repos\Simple_API_Assessment\Simple_API_Assessment\obj\Debug\net8.0\ref\Simple_API_Assessment.dll
+C:\Users\PC\Source\Repos\Simple_API_Assessment\Simple_API_Assessment\bin\Debug\net8.0\Newtonsoft.Json.dll

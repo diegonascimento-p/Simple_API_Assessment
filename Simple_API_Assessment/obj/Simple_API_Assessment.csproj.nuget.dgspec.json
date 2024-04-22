@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\source\\repos\\Simple_API_Assessment\\Simple_API_Assessment\\Simple_API_Assessment.csproj": {}
+    "C:\\Users\\PC\\Source\\Repos\\Simple_API_Assessment\\Simple_API_Assessment\\Simple_API_Assessment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\source\\repos\\Simple_API_Assessment\\Simple_API_Assessment\\Simple_API_Assessment.csproj": {
+    "C:\\Users\\PC\\Source\\Repos\\Simple_API_Assessment\\Simple_API_Assessment\\Simple_API_Assessment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\Simple_API_Assessment\\Simple_API_Assessment\\Simple_API_Assessment.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Source\\Repos\\Simple_API_Assessment\\Simple_API_Assessment\\Simple_API_Assessment.csproj",
         "projectName": "Simple_API_Assessment",
-        "projectPath": "C:\\Users\\PC\\source\\repos\\Simple_API_Assessment\\Simple_API_Assessment\\Simple_API_Assessment.csproj",
+        "projectPath": "C:\\Users\\PC\\Source\\Repos\\Simple_API_Assessment\\Simple_API_Assessment\\Simple_API_Assessment.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\source\\repos\\Simple_API_Assessment\\Simple_API_Assessment\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Source\\Repos\\Simple_API_Assessment\\Simple_API_Assessment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,6 +54,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.29, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",

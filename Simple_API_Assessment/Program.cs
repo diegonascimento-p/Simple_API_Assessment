@@ -1,10 +1,17 @@
 using APIExample.Data;
 using Microsoft.EntityFrameworkCore;
 using Simple_API_Assessment.Data.Repository;
+using System.Text.Json.Serialization;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddControllers();
+builder.Services.AddControllers()
+    .AddJsonOptions(options =>
+    {
+        options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.Preserve;
+    });
+
 builder.Services.AddSwaggerGen();
 
 //Dependency Injection
