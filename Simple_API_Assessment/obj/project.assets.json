@@ -1251,11 +1251,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Source\\Repos\\Simple_API_Assessment\\Simple_API_Assessment\\Simple_API_Assessment.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\Simple_API_Assessment\\Simple_API_Assessment\\Simple_API_Assessment.csproj",
       "projectName": "Simple_API_Assessment",
-      "projectPath": "C:\\Users\\PC\\Source\\Repos\\Simple_API_Assessment\\Simple_API_Assessment\\Simple_API_Assessment.csproj",
+      "projectPath": "C:\\Users\\PC\\source\\repos\\Simple_API_Assessment\\Simple_API_Assessment\\Simple_API_Assessment.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Source\\Repos\\Simple_API_Assessment\\Simple_API_Assessment\\obj\\",
+      "outputPath": "C:\\Users\\PC\\source\\repos\\Simple_API_Assessment\\Simple_API_Assessment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

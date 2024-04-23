@@ -42,7 +42,7 @@ namespace Simple_API_Assessment.Controllers
 
         //New Applicant
         [HttpPost]
-        public ActionResult<Applicant> AddApplicant(Applicant applicant)
+        public ActionResult<Applicant> AddApplicant([FromBody]Applicant applicant)
         {
             _applicantRepository.AddApplicant(applicant);
             if (applicant == null)

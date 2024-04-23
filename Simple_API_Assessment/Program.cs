@@ -3,7 +3,6 @@ using Microsoft.EntityFrameworkCore;
 using Simple_API_Assessment.Data.Repository;
 using System.Text.Json.Serialization;
 
-
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers()
@@ -23,6 +22,7 @@ builder.Services.AddDbContext<DataContext>(options =>
 
 builder.Services.AddScoped<IApplicantRepository, ApplicantRepo>();
 
+
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
@@ -36,3 +36,5 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+public partial class Program { }
