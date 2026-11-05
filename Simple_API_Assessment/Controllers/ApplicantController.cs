@@ -79,6 +79,7 @@ namespace Simple_API_Assessment.Controllers
             var existingApplicant = _applicantRepository.GetApplicantById(id);
             if (existingApplicant == null)
             {
+                //test
                 return NotFound();
             }
 
