@@ -13,6 +13,7 @@ namespace APIExample.Data
         public DbSet<Applicant> Applicants { get; set; }
         public DbSet<Skill> Skills { get; set; }
         public DbSet<Teacher> Teachers { get; set; }
+        public DbSet<Lesson> Lessons { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

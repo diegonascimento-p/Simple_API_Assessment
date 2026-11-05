@@ -17,5 +17,11 @@ namespace Simple_API_Assessment.Data.Repository
             _context.Teachers.Add(teacher);
             _context.SaveChanges();
         }
+
+        //True when at least one teacher teaches the given discipline (exact match).
+        public bool DisciplineExists(string discipline)
+        {
+            return _context.Teachers.Any(t => t.Discipline == discipline);
+        }
     }
 }
