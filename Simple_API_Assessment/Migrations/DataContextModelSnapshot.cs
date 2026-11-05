@@ -60,6 +60,30 @@ namespace Simple_API_Assessment.Migrations
                     b.ToTable("Skills");
                 });
 
+            modelBuilder.Entity("APIExample.Models.Teacher", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("Age")
+                        .HasColumnType("integer");
+
+                    b.Property<string>("Discipline")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Teachers");
+                });
+
             modelBuilder.Entity("APIExample.Models.Skill", b =>
                 {
                     b.HasOne("APIExample.Models.Applicant", "Applicant")
