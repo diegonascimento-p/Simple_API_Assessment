@@ -39,6 +39,26 @@ namespace Simple_API_Assessment.Migrations
                     b.ToTable("Applicants");
                 });
 
+            modelBuilder.Entity("APIExample.Models.Discipline", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<int>("NumberOfAlumns")
+                        .HasColumnType("integer");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Disciplines");
+                });
+
             modelBuilder.Entity("APIExample.Models.Lesson", b =>
                 {
                     b.Property<int>("Id")
