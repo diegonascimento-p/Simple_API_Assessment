@@ -1,4 +1,4 @@
-using APIExample.Data;
+﻿using APIExample.Data;
 using Microsoft.EntityFrameworkCore;
 using Simple_API_Assessment.Data.Repository;
 using System.Text.Json.Serialization;
@@ -23,6 +23,7 @@ builder.Services.AddDbContext<DataContext>(options =>
 builder.Services.AddScoped<IApplicantRepository, ApplicantRepo>();
 builder.Services.AddScoped<ITeacherRepository, TeacherRepo>();
 builder.Services.AddScoped<ILessonRepository, LessonRepo>();
+builder.Services.AddScoped<IDisciplineRepository, DisciplineRepo>();
 
 
 var app = builder.Build();
