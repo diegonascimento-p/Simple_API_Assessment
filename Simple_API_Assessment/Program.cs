@@ -1,4 +1,4 @@
-﻿using APIExample.Data;
+using APIExample.Data;
 using Microsoft.EntityFrameworkCore;
 using Simple_API_Assessment.Data.Repository;
 using System.Text.Json.Serialization;
